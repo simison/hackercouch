@@ -14,16 +14,16 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 
 ## Crash on my couch
-I have no permanent couch at the moment. But if I would, I’d say something like this:
 
-* couch in Berlin-Kreuzberg, near cool spots like betahaus and c-base
+I'm based in Vilnius, Lithuania
+See my hospitality exchange profiles on:
 
-No need to limit length of stay or state interests, just check out people’s profiles, look at their code and discuss everything directly in the issue.
+* [BeWelcome](http://www.bewelcome.org/members/mikael)
+* [CouchSurfing](http://www.couchsurfing.org/people/simison/)
+* [WarmShowers](https://www.warmshowers.org/users/mikael)
 
+Just add an issue or drop me a message if you wanna stay. :-)
 
 ## Have me crash on your couch
-Your next travels where you need a couch go in here, like:
 
-* May 6 – 12 in Berlin
-* June 3 – ? in Munich
-
+I travel extensively around Europe. Just drop me an invite!
