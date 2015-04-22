@@ -18,6 +18,7 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 I'm based in Vilnius, Lithuania
 See my hospitality exchange profiles on:
 
+* [Trustroots](https://www.trustroots.org/#!/profile/mikael)
 * [BeWelcome](http://www.bewelcome.org/members/mikael)
 * [CouchSurfing](http://www.couchsurfing.org/people/simison/)
 * [WarmShowers](https://www.warmshowers.org/users/mikael)
