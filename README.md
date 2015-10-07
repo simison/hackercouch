@@ -15,10 +15,11 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 ## Crash on my couch
 
-I'm based in Vilnius, Lithuania
+I'm based in [Vilnius, Lithuania](http://nomadwiki.org/en/Vilnius).
+
 See my hospitality exchange profiles on:
 
-* [Trustroots](https://www.trustroots.org/#!/profile/mikael)
+* [Trustroots](https://www.trustroots.org/profile/mikael)
 * [BeWelcome](http://www.bewelcome.org/members/mikael)
 * [CouchSurfing](http://www.couchsurfing.org/people/simison/)
 * [WarmShowers](https://www.warmshowers.org/users/mikael)
@@ -27,4 +28,4 @@ Just add an issue or drop me a message if you wanna stay. :-)
 
 ## Have me crash on your couch
 
-I travel extensively around Europe. Just drop me an invite!
+I travel extensively. Just drop me an invite!
